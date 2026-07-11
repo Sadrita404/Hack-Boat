@@ -34,6 +34,7 @@ This project mainly is an hobby purpose project, but we can use it to feed fish 
 * Long Range Transmission
 * Can Check Water Quality( of any small Pond)
 * Has 6 Channel transmitter
+* Carbon Fiber Inside
 * Fully Open Source
 
 
