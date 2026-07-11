@@ -1,4 +1,5 @@
 
+<img width="1536" height="1024" alt="Wiring diagram" src="https://github.com/user-attachments/assets/c040552d-aea7-4359-aa54-6e9de2ee2d78" />
 
 
 
