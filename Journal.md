@@ -2,7 +2,7 @@
 | :-- | :---|
 |Author |Sadrita Neogi|
 |Type | Hardware  |
-Total Hrs | 14.8  |
+Total Hrs | 18.1  |
 
 # research about RC Boat and its design structure
 So after deciding the project that I will build an RC boat, I went online to search for design model or the measurement dimension that I need to keep in mind while building it, so I dip into it and found out some key features that I need to think before making the CAD model..
@@ -188,6 +188,38 @@ _Total Time = 1.3hrs_
 _Total Time = 1.1hrs_
 
 
+# Making the Water Quality checker 
+
+So my initial plan was to get an premade product, but later I found out then the custom bill was incomplete for that's why design and small. Simple water quality check so that I can put it into the boat and for that I have designed this and I have also made it using USB type C port for better connectivity
+
+
+**First, I done with the schematic**
+
+<img width="632" height="647" alt="Screenshot 2026-07-12 at 2 38 53 AM" src="https://github.com/user-attachments/assets/6a01a5aa-6333-498c-889d-6be88e00051b" />
+
+
+<img width="673" height="479" alt="Screenshot 2026-07-12 at 2 39 08 AM" src="https://github.com/user-attachments/assets/0b99a3a9-66f5-459e-bf3c-2ea97e886d72" />
+
+
+
+<img width="942" height="792" alt="Screenshot 2026-07-12 at 2 39 27 AM" src="https://github.com/user-attachments/assets/27276f9e-a407-43a9-95a8-cc2e29bdef63" />
+
+
+<img width="806" height="684" alt="Screenshot 2026-07-12 at 2 39 32 AM" src="https://github.com/user-attachments/assets/dd63d8be-c70c-4683-bcb5-9162ba3f3d5d" />
+
+## DRC Check No error
+
+<img width="938" height="774" alt="Screenshot 2026-07-12 at 2 42 13 AM" src="https://github.com/user-attachments/assets/6f414a08-5fa6-4a76-8d49-11d11b75a755" />
+
+<img width="430" height="467" alt="Screenshot 2026-07-12 at 2 40 58 AM" src="https://github.com/user-attachments/assets/a7fa3c9c-55b7-439b-9154-f9928bc7dafe" />
+
+
+<img width="435" height="471" alt="Screenshot 2026-07-12 at 2 41 13 AM" src="https://github.com/user-attachments/assets/7dbdd198-62b0-4446-9845-75b418d23640" />
+
+
+
+_Total Time = 3.3hrs_
+
 ---
 
 # Final Render in Fusion 360 
@@ -211,19 +243,6 @@ _Total Time = 1.3hrs_
 
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
