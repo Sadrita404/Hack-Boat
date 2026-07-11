@@ -19,20 +19,20 @@
 
 
 ## Overview
-It is an open source Hack Boat it is fully 3d Printed and it has a water cooled motor with custom rudder for boat movement it uses 6 channel transmission to contol the boat also it is fully cover with carbon - fiber from inside 
+It is an open source Hack Boat it is fully 3d Printed and it has a water cooled motor with custom rudder for boat movement it uses 6 channel transmission to control the boat also it is fully covered with carbon - fiber on the inside body
 
 ## Why I choose this project?
 
-So behind choosing this project from a very long time, I was fascinated with this RC board since how the working principal like when I got to know about 3D printing. Then from now, I have been planning to build one for myself which I can 3-D print and it would be much more economi so for that I have made this
+So behind choosing this project for a very long time, I was fascinated with this RC board since how the working principal like when I got to know about 3D printing. Then from now, I have been planning to build one for myself which I can 3-D print and it would be much more economical so for that I have made this
 
 ##  How to use this project
-This project mainly is an hobby purpose project, but we can use it to feed fish or do some small rescue mission like for small project. We can send GPS tracking to the pond. Attach water quality monitor to the boat and check the water around any pond.
+This project mainly is an hobby purpose project, but we can use it to feed fish or perform small rescue missions like for small project. It can send GPS tracking data from the pond with the  Attach water quality monitor to the boat and check the water Quality of the pond.
 
 ## Features
 * Fully 3d Printed Body
 * Water Cooled Motor
 * Long Range Transmission
-* Can Check Water Quality( of any small Pond)
+* Custom Water Quality Monitoring System
 * Has 6 Channel transmitter
 * Carbon Fiber Inside
 * Fully Open Source
