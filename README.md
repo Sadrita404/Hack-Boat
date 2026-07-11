@@ -126,9 +126,11 @@ Here is your complete data formatted cleanly as a Markdown table, matching your 
 | Carbon Fiber Fabric 30x100cm | To make the frame strong | 1 | 10.5 | [Link](https://www.amazon.in/carbonblack-composites-genuine-carbon-fabric/dp/B07QF46HPG/ref=srd_d_vsims_d_sccl_1_3/521-2691873-1582521?pd_rd_w=JikL8&content-id=amzn1.sym.7ccbe032-5929-4c88-ab39-4923842061df&pf_rd_p=7ccbe032-5929-4c88-ab39-4923842061df&pf_rd_r=WK18GB1AEJDXQ0BDQAPA&pd_rd_wg=9BVV3&pd_rd_r=e70f6ccf-f27c-4339-a257-0efc92b2b88c&pd_rd_i=B07QF46HPG&th=1) | Amazon |
 | Clear Coat | To make the paint stay at the body | 1 | 2.2 | [Link](https://www.amazon.in/Nippon-Paint-Pylac-Spray-RS-Clear/dp/B01GKBXW2A/ref=sr_1_2_sspa?crid=3QLLSSD5FC3GY&dib=eyJ2IjoiMSJ9.Vl82MsLGIKe_hCKiC3au-QfP31SptdVHSjl1awmuz0YINxrdDOjGfyZFP_o4lRIEBhLZ5ACf38nDycEVhYp35zLQhX0HZOGjhacOzI5ctJ732g2bEGmWAdY8uQ_ORpl9IHYgKMvuIedb1m6g7ozPSxPD9iCee7ZRIDTpTDifs3EtRrYYBsyaF5BfJ-Ko9pG5jK-OmaRFgFeWZdEz-tybiuKtQTJ9WH1Wxf6IziveQqZT3qrh_NgEQ2AQVrBP8TgXm6joynFyBdC7igxGpCI0buWxWtcAUQnlLPLhDrFiAcI.O7ZDJNdTV0vjbSLoO6g7LsXI1AC6UM04VoPjq3BuumI&dib_tag=se&keywords=clear%2Bcoat%2Bspray%2Bpaint%2Bfor%2Bbike&qid=1783743758&sprefix=clear%2Bcoat%2Bsp%2Caps%2C292&sr=8-2-spons&aref=mQPut7ZXos&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | Amazon |
 | Spray Paint Colour | For the boat | 1 | 2.2 | [Link](https://www.amazon.in/Asian-Paints-ezyCR8-Apcolite-Spray/dp/B0FK4SN4KF/ref=asc_df_B0FK4SN4KF?mcid=e4589ed26a5734c9afb790c57e249174&tag=googleshopdes-21&linkCode=df0&hvadid=710150095583&hvpos=&hvnetw=g&hvrand=17342910943172119845&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301294&hvtargid=pla-2465759320067&psc=1&hvocijid=17342910943172119845-B0FK4SN4KF-&hvexpln=0&gad_source=1) | Amazon |
+| PCB(moq5)| For the water quality Monitor | 5 | 4| [JLCPCB](https://jlcpcb.com/)| JLCPCB |
 | Tax |  |  | 3.3 |  |  |
-| Shipping Charges |  |  | 4.2 |  |  |
-| Round Off Total | Dollar rate fluctuation |  | 300 |  |  |
+| Shipping Charges | incl PCB |  | 14.2 |  |  |
+| Total |  |  | 303 |  |  |
+| Round Off Total | Dollar rate fluctuation |  | 310 |  |  |
 
 
 
