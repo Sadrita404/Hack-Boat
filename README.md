@@ -53,7 +53,7 @@ Here is your complete data formatted cleanly as a Markdown table, matching your 
 | Spray Paint Colour | For the boat | 1 | 2.2 | [Link](https://www.amazon.in/Asian-Paints-ezyCR8-Apcolite-Spray/dp/B0FK4SN4KF/ref=asc_df_B0FK4SN4KF?mcid=e4589ed26a5734c9afb790c57e249174&tag=googleshopdes-21&linkCode=df0&hvadid=710150095583&hvpos=&hvnetw=g&hvrand=17342910943172119845&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301294&hvtargid=pla-2465759320067&psc=1&hvocijid=17342910943172119845-B0FK4SN4KF-&hvexpln=0&gad_source=1) | Amazon |
 | Tax |  |  | 3.3 |  |  |
 | Shipping Charges |  |  | 4.2 |  |  |
-| Round Off Total |  |  | 290 |  |  |
+| Round Off Total | Dollar rate fluctuation |  | 300 |  |  |
 
 
 
