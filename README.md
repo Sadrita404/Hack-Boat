@@ -48,9 +48,35 @@ This project mainly is an hobby purpose project, but we can use it to feed fish 
 | <img src="https://github.com/user-attachments/assets/43dcc6b5-67e7-40d0-b544-b63cca494e1e" width="250" alt="Building Process 9" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/0bf172cf-a271-4151-aefb-737acd6720ce" width="250" alt="Building Process 11" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/a5472470-048c-45a6-802a-02101438d4cf" width="250" alt="Building Process 14" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/2c484c51-735a-4782-a213-34dd9441d61b" width="250" alt="Building Process 16" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/9d5c7172-65ad-4174-81c8-050e24414444" width="250" alt="Building Process 20" style="border-radius: 12px;" /> |
 | <img src="https://github.com/user-attachments/assets/f7f7ff96-2fec-45f5-9746-36f4d2ce995d" width="250" alt="Building Process 23" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/4dec68d7-1cef-4948-9765-328635fa08ac" width="250" alt="Building Process 25" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/91ab0537-4d86-4830-b57e-571c2ff0a4eb" width="250" alt="Building Process 26" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/78477d9a-7ef6-4567-948d-b6960356abfa" width="250" alt="Building Process 27" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/1883bd7d-e8da-4354-822d-f9a7367f9cae" width="250" alt="Building Process 30" style="border-radius: 12px;" /> |
 | <img src="https://github.com/user-attachments/assets/552d4dc1-638d-4c1c-8123-1af040acd9c9" width="250" alt="Building Process 34" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/d221ccc2-3a86-4aec-91ee-15a77f58a8fa" width="250" alt="Building Process 35" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/1d062bb0-8403-4a22-88e7-9a14245ce071" width="250" alt="Building Process 37" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/74e40650-efdb-4baf-8553-87719c2d8dc1" width="250" alt="Building Process 39" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/800dd7cb-2527-4093-b4fc-3a3e54595cdd" width="250" alt="Building Process 40" style="border-radius: 12px;" /> |
+| <img src="https://github.com/user-attachments/assets/76ba6364-55b9-43d7-8f4d-6014bdf5628a" width="250" alt="Building Process 1" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/9ac948e3-3345-4199-8f62-eb2fd43dd9a2" width="250" alt="Building Process 2" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/8dc2a84b-bd94-44e5-b0b2-012b43705689" width="250" alt="Building Process 3" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/4d65cb89-a1c2-4f3e-8f0e-1993f6a7d67d" width="250" alt="Building Process 4" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/d5b698c6-1a41-423c-b5f6-ae546937bccc" width="250" alt="Building Process 5" style="border-radius: 12px;" /> |  |
 
 
 
+
+<div align="center">
+  <h2> PCB Final (Water Quality Monitor) </h2>
+  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+      <!-- FRONT SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/ffd39462-aaab-4e84-ba5e-e2ec4dfac440" width="100%" alt="Front Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+          ▲ Front Side View
+        </div>
+      </td>
+      <!-- SPACER FOR GITHUB MOBILE DEGRADATION -->
+      <td width="2%">&nbsp;</td>
+      <!-- BACK SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/9e193bbe-63df-46f8-8e1b-b3b292035c67" width="100%" alt="Back Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+          ▲ Back Side View
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
 
 
 ## Fusion Renders 
